@@ -1,0 +1,16 @@
+/* Put all your CSS here */
+body {
+	background-color: #028090; 
+}
+header {
+	background-color: #114B5F;
+	text-align: center;
+	padding: 20px 0;
+}
+
+section {
+	background-color:#E4FDE1;
+	padding: 5%;
+	width: 60%;
+	margin: 20px auto;
+}
